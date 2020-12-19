@@ -33,7 +33,7 @@ void shuffle(int arr[],int size)
     shuffle.erase(shuffle.begin() + pos);
     count++;
     //cout<<pos;
-    }
+    } 
 }
 int main()
 {   
